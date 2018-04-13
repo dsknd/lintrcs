@@ -1,0 +1,39 @@
+{
+  "ignore": [
+	"box-sizing",
+	"compatible-vendor-prefixes",
+	"gradients",
+	"fallback-colors",
+	"floats",
+	"star-property-hack",
+	"ids",
+	"underscore-property-hack",
+	"universal-selector",
+	"unqualified-attributes",
+ 	"vendor-prefix",
+	"zero-units"
+  ],
+  "warnings": [
+	"box-model",
+	"regex-selectors",
+	"empty-rules",
+	"font-sizes",
+	"font-faces",
+	"shorthand"
+  ],
+  "errors": [
+	"important",
+	"adjoining-classes",
+	"known-properties",
+	"overqualified-elements",
+	"display-property-grouping",
+	"bulletproof-font-face",
+	"duplicate-background-images",
+	"duplicate-properties",
+	"outline-none",
+	"import",
+	"qualified-headings",
+	"text-indent",
+	"unique-headings"
+  ]
+}
